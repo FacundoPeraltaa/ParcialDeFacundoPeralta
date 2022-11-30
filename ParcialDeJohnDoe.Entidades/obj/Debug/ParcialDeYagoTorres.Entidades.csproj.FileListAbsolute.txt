@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\bin\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\bin\Debug\ParcialDeJohnDoe.Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\obj\Debug\ParcialDeYagoTorres.Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\obj\Debug\ParcialDeYagoTorres.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\obj\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Entidades\obj\Debug\ParcialDeJohnDoe.Entidades.pdb

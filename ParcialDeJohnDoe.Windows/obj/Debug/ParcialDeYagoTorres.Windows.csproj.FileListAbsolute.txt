@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.exe
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Datos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeYagoTorres.Windows.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.frmCubosAE.resources
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.frmPrincipal.resources
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeYagoTorres.Windows.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeYagoTorres.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeYagoTorres.Windows.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.exe
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.pdb

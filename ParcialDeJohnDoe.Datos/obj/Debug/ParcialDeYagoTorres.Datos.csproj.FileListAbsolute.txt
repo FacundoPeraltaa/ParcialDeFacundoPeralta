@@ -1,0 +1,9 @@
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Datos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeYagoTorres.Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeYagoTorres.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeYagoTorres.Datos.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\RecuperatorioSegundoParcialTema1-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeJohnDoe.Datos.pdb
